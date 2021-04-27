@@ -1,0 +1,37 @@
+.contenedor{
+    margin: 0 auto;
+    width: 980px;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+main{
+    background: url("../images/Camote1.png") no-repeat;
+    background-size: contain;
+    height: 540px;
+    width: 660px;
+    margin: 0 auto;
+}
+
+body{
+    margin: 0;
+}
+
+header{
+    background: #c16609;
+    min-width: 980px;
+}
+
+.enlace{
+    width: 250px;
+    height: 105px;
+}
+
+.texto-logo{
+    font-family: "Snap ITC";
+    margin: -75px 20px 0 0;
+    float: right;
+    color: black;
+}
